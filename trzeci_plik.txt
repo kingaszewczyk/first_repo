@@ -11,3 +11,4 @@ losowanie ze zwracaniem (z powtórzeniami, losowanie niezależne) - każdy obiek
 Losowanie jest w statystyce sposobem wykonywania doboru próby losowej.
 
 Losowanie jest popularną formą zestawiania drużyn w sporcie. Często losowanie bywa poprzedzone rozstawieniem drużyn
+dfghjk
